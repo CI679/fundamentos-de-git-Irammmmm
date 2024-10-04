@@ -91,6 +91,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Optional next steps 
 
+ESTOS SON LOS EJERCICIOS, SUPONDRÉ
+
 * Open a pull request and let your teacher know that you’ve finished this course.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
@@ -105,4 +107,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+* [GitHub community forum](https
